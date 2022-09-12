@@ -72,3 +72,14 @@
 0:0:0:0:0:0:0:1 - - [12/Sep/2022:08:37:19 -0400] "POST /project/appServlet HTTP/1.1" 200 548 http-bio-8080-exec-9 20
 0:0:0:0:0:0:0:1 - - [12/Sep/2022:09:03:37 -0400] "GET /project/logout HTTP/1.1" 304 - http-bio-8080-exec-6 3
 0:0:0:0:0:0:0:1 - - [12/Sep/2022:09:03:44 -0400] "POST /project/appServlet HTTP/1.1" 200 1311 http-bio-8080-exec-6 27
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:09:35:43 -0400] "GET /project/appServlet HTTP/1.1" 405 1065 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:09:35:52 -0400] "GET /project HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:09:35:52 -0400] "GET /project/ HTTP/1.1" 200 1266 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:03:54 -0400] "POST /project/appServlet HTTP/1.1" 200 1309 http-bio-8080-exec-9 39
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:02 -0400] "POST /project/appServlet HTTP/1.1" 200 562 http-bio-8080-exec-1 36
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:35 -0400] "POST /project/appServlet HTTP/1.1" 200 607 http-bio-8080-exec-7 39
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:35 -0400] "GET /project/style.css HTTP/1.1" 304 - http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:35 -0400] "GET /project/img/vector.jpg HTTP/1.1" 404 995 http-bio-8080-exec-7 1
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:36 -0400] "GET /project/view HTTP/1.1" 200 1746 http-bio-8080-exec-8 28
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:36 -0400] "GET /project/img/vector.jpg HTTP/1.1" 404 995 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [12/Sep/2022:10:04:39 -0400] "GET /project/add.html HTTP/1.1" 304 - http-bio-8080-exec-8 3
