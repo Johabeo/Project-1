@@ -1,0 +1,76 @@
+
+body {
+    box-sizing: border-box;
+    background: url(img/vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: helvetica;
+    font-size: 30px;
+    color: rgba(128,255,128,.8);
+}
+
+.field {
+    font-family: helvetica;
+    color: rgba(0 0 0);
+    width: 70%;
+}
+
+.terminal {
+    box-sizing: inherit;
+    position: absolute;
+    width: 100vw;
+    padding: 2rem;
+    text-transform: uppercase;
+}
+
+.btn{
+    font-family: helvetica;
+    font-size: 30px;
+    background: rgb(78,0,11);
+    background: linear-gradient(166deg, rgba(78,0,11,1) 0%, rgba(8,8,51,1) 45%, rgba(10,70,8,1) 100%);
+    color: #f8f9fa;
+}
+
+.btn:hover {
+    background: rgb(153,0,22);
+    background: linear-gradient(166deg, rgba(153,0,22,1) 0%, rgba(20,20,130,1) 45%, rgba(25,157,21,1) 100%);
+    color: #f8f9fa;
+}
+
+.login .output {
+    margin: 0;
+    color: rgba(255 255 255);
+    width: 70%;
+}
+
+.login {
+    margin: 15% 35%;
+    background: #343a40;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    width: 25%;
+}
+
+.table-box{
+    padding: 1.5%;
+}
+
+.table-box .table{
+    width:97%;
+}
+
+.buttons {
+    background: #343a40;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 15% 23%;
+    text-align: center;
+    width: 50%;
+}
+
+.buttons .btn {
+    padding:45px;
+    margin: 0 10px;
+}
